@@ -1,5 +1,9 @@
 #!/usr/bin/python
 #--*--coding:utf-8 -*-
+# Author: Jiahui Tang
+# Date: 2017-01
+# Address: Beijing
+
 from voicetools import BaiduVoice
 from gevent import monkey;monkey.patch_socket()
 import sys
